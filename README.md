@@ -1,2 +1,2 @@
 # Week4
-Week4 patika
+Patika hafta 4 çalışması olan Macera oyununu içermektedir.
